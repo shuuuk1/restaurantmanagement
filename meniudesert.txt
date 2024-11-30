@@ -1,0 +1,6 @@
+Clatite			8
+Papanasi		12
+Tiramisu		15
+Prajitura cu mere 	6
+Placinta cu branza	8
+Budinca			3

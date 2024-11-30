@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1609971777 source:d:\school_i\computer programming\modular pro\restaurantmanagement\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menumanager.h"
+	"login.h"
+	"customercommands.h"
+	"admincmd.h"
+
+1609878667 d:\school_i\computer programming\modular pro\restaurantmanagement\login.h
+	<stdlib.h>
+
+1609966399 d:\school_i\computer programming\modular pro\restaurantmanagement\menumanager.h
+	<stdlib.h>
+	<stdio.h>
+
+1609878645 source:d:\school_i\computer programming\modular pro\restaurantmanagement\login.c
+	"login.h"
+
+1609967433 source:d:\school_i\computer programming\modular pro\restaurantmanagement\menumanager.c
+	"menumanager.h"
+
+1609970982 source:d:\school_i\computer programming\modular pro\restaurantmanagement\customercommands.c
+	"customercommands.h"
+
+1609970976 d:\school_i\computer programming\modular pro\restaurantmanagement\customercommands.h
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1609971384 source:d:\school_i\computer programming\modular pro\restaurantmanagement\admincmd.c
+	"admincmd.h"
+
+1609972043 d:\school_i\computer programming\modular pro\restaurantmanagement\admincmd.h
+	<stdlib.h>
+	<stdio.h>
+

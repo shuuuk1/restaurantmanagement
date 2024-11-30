@@ -1,0 +1,11 @@
+Cartofi pai 		 5
+Burger de vita 		18
+Burger de porc 		15
+Shaorma mare 		12
+Shaorma mica 		10
+Paste Carbonara 	20
+Paste Bolognese 	17
+Paste Alfredo 		18
+Pastrav la gratar 	12
+Piept de pui la gratar  11
+

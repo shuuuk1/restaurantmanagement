@@ -1,0 +1,9 @@
+Coca Cola    		5
+Pepsi			5
+Fanta			5	
+Sprite			5	
+Mountain Dew		6
+Mirinda			5
+Schweppes		4
+Berea Casei 		7
+Coniac 			8
